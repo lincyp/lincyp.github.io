@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Lincy Pattanaik</title>
-    <link>https://academic-demo.netlify.app/project/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lincyp.github.io/project/</link>
+      <atom:link href="https://lincyp.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_huc2141afb230b0a186b8b6b37e466f185_39524_512x512_fill_lanczos_center_3.png</url>
+      <url>https://lincyp.github.io/media/icon_huc2141afb230b0a186b8b6b37e466f185_39524_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://academic-demo.netlify.app/project/</link>
+      <link>https://lincyp.github.io/project/</link>
     </image>
     
     <item>
       <title>Image Compression using Discrete Cosine Transform</title>
-      <link>https://academic-demo.netlify.app/project/proj1/</link>
+      <link>https://lincyp.github.io/project/proj1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/proj1/</guid>
+      <guid>https://lincyp.github.io/project/proj1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Segmentation using Watershed Transform</title>
-      <link>https://academic-demo.netlify.app/project/proj3/</link>
+      <link>https://lincyp.github.io/project/proj3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/proj3/</guid>
+      <guid>https://lincyp.github.io/project/proj3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model to predict flight performance</title>
-      <link>https://academic-demo.netlify.app/project/proj2/</link>
+      <link>https://lincyp.github.io/project/proj2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/proj2/</guid>
+      <guid>https://lincyp.github.io/project/proj2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shape-Preserving Half-Projective Warps for Image Stitching</title>
-      <link>https://academic-demo.netlify.app/project/proj4/</link>
+      <link>https://lincyp.github.io/project/proj4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/proj4/</guid>
+      <guid>https://lincyp.github.io/project/proj4/</guid>
       <description></description>
     </item>
     
